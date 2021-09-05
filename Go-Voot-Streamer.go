@@ -38,7 +38,6 @@ func getStreamingUrl(url string) (string, string, string) {
 func welcomeScreen() {
 	fmt.Println("Go Voot Streamer\n" +
 		"Developed By Henry Richard J")
-	fmt.Println("To directly stream in VLC, use this url: http://localhost:8080/player?url=VOOT-URL-HERE")
 	fmt.Println("Example: http://localhost:8080/player?url=https://www.voot.com/movies/petta/962823")
 }
 
