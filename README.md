@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Go-Voot-Streamer/total.svg?style=for-the-badge&logo=github)
+
 # Go-Voot-Streamer
 Go Voot Streamer is a Go web app that streams voot contents without login.
 
