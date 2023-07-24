@@ -17,13 +17,5 @@ Go Voot Streamer is a Go web app that streams voot contents without login.
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
-# My Telegram Channel
-[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
-
-# Donations (Optional)
-If you like my projects then consider making a small donation by clicking below button ^_^
-<br/>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
-
 ### ⚠ Disclamier
 This app is developed for educational purpose only, Author is not responsible for how the app is used.
